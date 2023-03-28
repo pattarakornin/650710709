@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+
+</style>
+</head>
+<body>
+
+<p>A menu icon:</p>
+  </div>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>sneakers</h1>
+  <p>ขายรองเท้า</p> 
+</div>
+  <h2>NIKE</h2>
+<img src="https://down-th.img.susercontent.com/file/8f55401ab1c7c4024d340da200b0c369" alt="Trulli" width="500" height="500">
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>Nike dunk low panda สุดฮิต</h3>
+      <p>สีดำ</p>
+      <p>ขนาดไซต์ 10us</p>
+    </div>
+      <h2>ADIDAS</h2>
+<img src="https://images.lifestyleasia.com/wp-content/uploads/sites/8/2022/10/27173223/Screenshot-2022-10-27-171928.png" alt="Trulli" width="500" height="300">
+    <div class="col-sm-4">
+      <h3>Adidas  Yeezy</h3>
+      <p>สีดำ</p>
+      <p>ขนาดไซต์ 10us</p>
+    </div>
+      <h2>Converse</h2>
+<img src="https://www.converse.co.th/media/catalog/product/cache/d0475204e12cfc30c4466d49c86ee9e6/1/6/166800c_a_107x1_8.jpg" alt="Trulli" width="500" height="500">
+    <div class="col-sm-4">
+      <h3>Converse un star hike</h3>
+      <p>สีดำ</p>
+      <p>ขนาดไซต์ 10us</p>
+   </p>
+    </div>
+    
+  <div class="column">
+    <div class="card">
+      <img src="https://static.thairath.co.th/media/4DQpjUtzLUwmJZZSBHVMZWuCxGrz8qc5bIcHnsfTcVH1.jpg" alt="Mike" style="width:10">
+      <div class="container">
+        <h2>ภัทรกร อินทร์ทรง</h2>
+        <p class="title">it</p>
+        <p></p>
+        <p>insong_p@silpakorn.edu</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+  </div>
+</div>
+
+</body>
+</html>
